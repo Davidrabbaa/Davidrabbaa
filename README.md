@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **davidrabba2007@gmail.com**
 
-- 📄 Know about my experiences: WEBSITE BEING WORKED ON.
+- 📄 Know about my experiences: bigdodeedaveed.github.io/portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
