@@ -3,7 +3,7 @@
 
 - Working on [a Discord Bot](https://github.com/BigDodeeDaveed/discordbot)
 
-- Currently learning **Data Science & Backend and Frontend Frameworks (Flask,React)**
+- Currently learning **Data Science and coding, primarily in Python**
 
 - Know more about me <a href="https://davidrabbaa.github.io/portfolio/">My Website</a>
 
