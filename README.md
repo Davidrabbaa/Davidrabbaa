@@ -5,8 +5,6 @@
 
 - Currently learning **Data Science & Backend and Frontend Frameworks (Flask,React)**
 
-- How to reach me: **davidrabba2007@gmail.com**
-
 - Know more about me <a href="https://davidrabbaa.github.io/portfolio/">My Website</a>
 
 <h3 align="left">Connect with me:</h3>
