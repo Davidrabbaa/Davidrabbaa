@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Data Scientist and Full-Stack Developer from Jordan</h3>
 
-- 🔭 I’m currently working on [a Discord Bot](https://github.com/BigDodeeDaveed/discordbot)
+- Working on [a Discord Bot](https://github.com/BigDodeeDaveed/discordbot)
 
-- 🌱 I’m currently learning **Data Science & Backend and Frontend Frameworks (Flask,React)**
+- Currently learning **Data Science & Backend and Frontend Frameworks (Flask,React)**
 
-- 📫 How to reach me: **davidrabba2007@gmail.com**
+- How to reach me: **davidrabba2007@gmail.com**
 
-- 📄 Know more about me! <a href="https://bigdodeedaveed.github.io/portfolio/">My Website</a>
+- Know more about me <a href="https://davidrabbaa.github.io/portfolio/">My Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
