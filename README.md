@@ -5,7 +5,7 @@
 
 - Currently learning **Data Science and coding, primarily in Python**
 
-- Know more about me <a href="https://davidrabbaa.github.io/portfolio/">My Website</a>
+- Know more about me: <a href="https://davidrabbaa.github.io/portfolio/">My Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
