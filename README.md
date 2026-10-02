@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Data Scientist and Full-Stack Developer from Jordan</h3>
 
-- Working on [a Discord Bot](https://github.com/BigDodeeDaveed/discordbot)
+- Working on [a Discord Bot](https://github.com/davidrabbaa/discordbot)
 
 - Currently learning **Data Science and coding, primarily in Python**
 
